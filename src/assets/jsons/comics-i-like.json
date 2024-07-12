@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "The Amazing Spider-Man",
+        "description": "The Amazing Spider-Man is an American comic book series published by Marvel Comics, featuring the fictional superhero Spider-Man.",
+        "characters": ["Spider-Man", "Mary Jane Watson", "Green Goblin"]
+      },
+      {
+        "id": 2,
+        "title": "Batman",
+        "description": "Batman is an ongoing American comic book series featuring the DC Comics superhero Batman as its main protagonist.",
+        "characters": ["Batman", "Robin", "Joker"]
+      },
+      {
+        "id": 3,
+        "title": "Superman",
+        "description": "Superman is an ongoing American comic book series featuring the DC Comics superhero Superman as its main protagonist.",
+        "characters": ["Superman", "Lois Lane", "Lex Luthor"]
+      }
+]

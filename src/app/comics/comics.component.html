@@ -1,0 +1,16 @@
+<div class="comic-list-container">
+    <div class="comic-list">
+        @for(comic of comics; track comic){
+        <div class="comic-list-item">
+         <h1>{{comic.title}}</h1>
+         <p>{{comic.description}}</p>
+         <h4>Characters</h4>
+         <ul>
+            @for(character of comic.characters; track character){
+                <li>{{character}}</li>
+            }
+         </ul>
+        </div>
+    }
+    </div>
+</div>
